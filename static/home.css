@@ -1,0 +1,26 @@
+#introSection {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    height: 582px;
+    background-color: red;
+    background: center/cover no-repeat url("bg1.jpg");
+}
+
+#sp {
+    margin-left: 7rem;
+    margin-top: 12rem;
+    font-size: 58px;
+    width: 54rem;
+}
+
+#sp2 {
+    margin-left: 7rem;
+    margin-top: 3rem;
+    font-size: 20px;
+    width: 54rem;
+}
+
+.con {
+    width: 54rem;
+}

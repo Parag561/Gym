@@ -1,0 +1,27 @@
+.container{
+    
+    font-size: 21px;
+    margin: 46px 89px;
+}
+
+.items{
+    display: flex;
+    margin-bottom: 70px;
+    width: 51%;
+    
+}
+
+.s{
+    margin-top: 17px;
+}
+
+.basic{
+    font-size: 18px;
+    margin: 11% 12%;
+    
+}
+
+.include{
+    font-size: 18px;
+    margin: 30px 5px;
+}
